@@ -28,3 +28,5 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+- Product catalog data lives in src/lib/catalog.ts; images/videos hotlinked from rijux.com.br (the client's own site).
